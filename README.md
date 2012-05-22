@@ -11,3 +11,7 @@ Generating Roy code with scaffolding also works.
 
 Demo Rails application that uses Roy.
 
+
+### TODO
+- create sample rails project to test out using Roy.
+- add target to ruby-roy to update the JS version of Roy
