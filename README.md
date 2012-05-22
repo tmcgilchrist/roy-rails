@@ -1,4 +1,11 @@
-Package Roy as an alternate JS engine in the Rails Asset Pipeline.
+Roy-Rails is an alternate Javascript engine for the Rails Asset Pipeline.
+
+Roy-Rails run on Rails 3.1 and later.
+
+## Installation
+```ruby
+gem install roy-rails
+```
 
 ## Basic Usage
 - Include `roy-rails` in the Gemfile for your rails project.
@@ -12,6 +19,5 @@ Generating Roy code with scaffolding also works.
 Demo Rails application that uses Roy.
 
 
-### TODO
-- create sample rails project to test out using Roy.
-- add target to ruby-roy to update the JS version of Roy
+## TODO
+- create sample rails project using Roy.
