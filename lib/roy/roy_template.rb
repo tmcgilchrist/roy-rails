@@ -8,14 +8,15 @@ module Roy
       true
     end
 
-    def initialize_engine; end
+    def initialize_engine
+    end
 
     def prepare
       @engine = RoyEngine.new(@file, options)
     end
 
     def evaluate(scope, locals, &block)
-      @output ||= @engine.compile
+      @output ||= @engine.compile(data)
     end
   end
 end

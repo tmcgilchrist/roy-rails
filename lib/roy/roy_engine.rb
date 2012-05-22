@@ -1,11 +1,12 @@
 module Roy
   class RoyEngine
-    def initialize(file)
+    def initialize(file, options)
       @file = file
+      @options = options
     end
 
-    def compile()
-      Roy.compile(@file)
+    def compile(data)
+      Roy.compile(data)
     end
   end
 end
