@@ -1,3 +1,4 @@
+[![Build Status](https://secure.travis-ci.org/tmcgilchrist/roy-rails.png)](http://travis-ci.org/tmcgilchrist/roy-rails)
 Roy-Rails is an alternate Javascript engine for the Rails Asset Pipeline.
 
 Roy-Rails run on Rails 3.1 and later.
