@@ -2,6 +2,9 @@ require 'test/unit'
 
 require 'tilt'
 
+require 'roy-lang'
+require 'roy/roy_engine'
+require 'roy/roy_template'
 
 class RoyTemplateTest < Test::Unit::TestCase
 
