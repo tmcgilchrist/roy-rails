@@ -1,4 +1,4 @@
-Roy Rails [![Build Status](https://secure.travis-ci.org/tmcgilchrist/roy-rails.png)](http://travis-ci.org/tmcgilchrist/roy-rails)
+Roy Rails [![Build Status](https://travis-ci.org/tmcgilchrist/roy-rails.png?branch=master)](https://travis-ci.org/tmcgilchrist/roy-rails)
 ==================
 
 Roy-Rails is an alternate Javascript engine for the Rails Asset Pipeline.
